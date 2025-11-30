@@ -1,6 +1,6 @@
 {
   "functions": {
-    "*.php": {
+    "index.php": {
       "runtime": "vercel-php@0.7.4" 
     }
   },
@@ -10,7 +10,4 @@
       "dest": "/index.php"
     }
   ]
-
 }
-
-
